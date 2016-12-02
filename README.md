@@ -6,7 +6,11 @@ This script orignally belonged to user Xuan yu song on bitbucket. This project w
 
 #Usage:
 1)Import the script in project.
+
 2)Bake the lighting in scene.
+
 3)Press Ctrl+Shift+D instead of normal Ctrl+D to duplicate.
+
 4)Voila and you have your Lightmapped object duplicated.
+
 5)Origanlly the script did not allowed user to edit the duplicated objects. But now you can edit just by clicking on the flag   "isEnableEdit" in the script and Update the flag settings in the game by clicking "updateNow".
